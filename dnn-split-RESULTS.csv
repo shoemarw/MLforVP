@@ -1,0 +1,12 @@
+,Error
+1M-loads-split.csv,0.0035835766327031774
+compute_fp_1-loads-split.csv,0.00016860752323215244
+compute_fp_4-loads-split.csv,0.00025962573024412985
+compute_fp_9-loads-split.csv,4.2125814375940196e-06
+compute_fp_10-loads-split.csv,0.00037602307886467094
+compute_int_0-loads-split.csv,0.0007374439574228882
+compute_int_4-loads-split.csv,0.0003444767998842483
+compute_int_7-loads-split.csv,0.0003792792599957878
+compute_int_11-loads-split.csv,9.915196401923208e-05
+compute_int_15-loads-split.csv,0.00024294615399204507
+srv_10-loads-split.csv,0.00046864044985586446

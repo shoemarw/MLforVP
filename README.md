@@ -5,4 +5,4 @@ USAGE:
 
 To use our ML models launch the notebooks in Jupyter Notebook. Make sure the relevent datasets are in the same directory as the notebooks and the py files.
 
-To generate more datasets us the cpp files on the unzipped trace files from the CVP website.
+To generate more datasets use the cpp files on the unzipped trace files from the CVP website.

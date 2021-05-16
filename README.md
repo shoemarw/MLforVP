@@ -1,6 +1,8 @@
 # Machine Learning for Value Prediction
 Code repo for investigating the use of machine learning techniques for predicting values of load instructions. This work resulted from a project in a graduate level computer architecture course at the College of William and Mary.
 
+This project has been continued! Follow this link to see MLforVPII: https://github.com/shoemarw/MLforVPII
+
 USAGE:
 
 To use our ML models launch the notebooks in Jupyter Notebook. Make sure the relevent datasets are in the same directory as the notebooks and the py files.
